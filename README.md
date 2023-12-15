@@ -10,5 +10,6 @@ Device;
 
 ![Light Control App](project.png)
 
-To start the application refer to this
-[Readme](/Frontend/light-control-app/README.md)
+## To start the application
+
+Refer to this [README.md](/Frontend/light-control-app/README.md)
